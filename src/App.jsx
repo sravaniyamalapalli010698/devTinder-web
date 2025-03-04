@@ -11,6 +11,7 @@ import Premium from "./components/Premium";
 import Chat from "./components/Chat";
 
 function App() {
+  console.log("juuu");
   return (
     <>
       <Provider store={appStore}>
